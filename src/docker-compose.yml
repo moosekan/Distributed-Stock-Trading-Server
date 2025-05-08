@@ -1,0 +1,47 @@
+version: "3.8"
+
+services:
+  catalog:
+    build:
+      context: .
+      dockerfile: Dockerfile.catalog
+    ports:
+      - "8092:8092"
+    volumes:
+      - ./catalog/catalog.csv:/app/src/catalog/catalog.csv
+    environment:
+      CATALOG_PORT: 8092
+    networks:
+      - mumanet
+  order:
+    build:
+      context: .
+      dockerfile: Dockerfile.order
+    ports:
+      - "8093:8093"
+    volumes:
+      - ./order/order_log.csv:/app/src/order/order_log.csv
+    environment:
+      ORDER_PORT: 8093
+      CATALOG_HOST: catalog
+      CATALOG_PORT: 8092
+    networks:
+      - mumanet
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "8091:8091"
+    environment:
+      FRONTEND_PORT: 8091
+      CATALOG_HOST: catalog
+      CATALOG_PORT: 8092
+      ORDER_HOST: order
+      ORDER_PORT: 8093
+    networks:
+      - mumanet
+
+networks:
+  mumanet: {}

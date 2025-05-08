@@ -1,0 +1,75 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+service OrderService {
+    rpc Order (OrderRequest) returns (OrderResponse);
+    rpc GetOrderDetails (GetOrderDetailsRequest) returns (GetOrderDetailsResponse);
+    rpc Heartbeat (google.protobuf.Empty) returns (HeartbeatResponse);
+    rpc NotifyReplica (NotifyReplicaRequest) returns (NotifyReplicaResponse);   
+    rpc ReplicateOrder (ReplicateOrderRequest) returns (ReplicateOrderResponse);
+    rpc SyncUp (SyncUpRequest) returns (SyncUpResponse);
+}
+
+message OrderRequest {
+    string name = 1;
+    int32 number_of_items = 2;
+    string type = 3;  
+}
+message OrderResponse {
+    int32 transaction_num = 1; 
+    int32 code = 2;
+    string message = 3;
+}
+message GetOrderDetailsRequest{
+    int32 transaction_num = 1;
+}
+message GetOrderDetailsResponse{
+    int32 code = 1;
+    string message = 2;
+    int32 transaction_num = 3;
+    string name = 4;
+    int32 volume_traded = 5;
+    string type = 6;
+
+}
+message HeartbeatResponse{
+    int32 code = 1;
+}
+message NotifyReplicaRequest{
+    int32 leader_id = 1;
+}
+message NotifyReplicaResponse{
+    int32 code = 1;
+}
+
+message ReplicateOrderRequest{
+    int32 transaction_num = 1;
+    string name = 2;
+    int32 number_of_items = 3;
+    string type = 4;  
+    int32 leader_id = 5;
+}
+
+message ReplicateOrderResponse{
+    int32 code = 1;
+}
+
+message SyncUpRequest{
+    int32 transaction_num = 1;
+    int32 service_id = 2;
+}
+
+message OrderDetails{
+    int32 transaction_num = 1;
+    string name = 2; 
+    string type = 3;
+    int32 volume_traded = 4;
+}
+
+
+message SyncUpResponse{
+
+    repeated OrderDetails orders = 1;
+
+}

@@ -1,0 +1,59 @@
+ ---------------- Starting Environment ------------------
+source .venv/bin/activate
+
+----------------- Protoc File Compile -------------------
+python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. catalog.proto
+python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. order.proto
+
+
+------------------ Running Microservices -----------------
+python -m frontend.http_frontend
+python -m catalog.catalog
+python -m order.order
+
+----------------- Running Script --------------------------
+chmod +x build.sh
+
+----------------- AWS Commands ----------------------------
+
+if the key pair does not exist in aws region at the server side add it using 
+chmod 400 labsuser.pem
+ssh-keygen -y -f labsuser.pem > labsuser.pub
+aws ec2 import-key-pair \
+  --key-name labsuser \
+  --public-key-material fileb://labsuser.pub
+
+Confirm if it was registered using 
+
+aws ec2 describe-key-pairs --query "KeyPairs[*].KeyName"
+
+
+create a zip file from outside src using tar command use gitignore to prevent copying .venv, pycache files 
+git archive --format=tar.gz --output=lab3.tar.gz HEAD 
+
+Use scp to copy zip file 
+scp -i src/labsuser.pem lab3.tar.gz ubuntu@107.22.138.66:~/
+
+ssh into instance using 
+ssh -i stock-key.pem ubuntu@$PUBLIC_IP
+
+Extract zip file on instance using 
+tar -xzf lab3.tar.gz
+
+Install packages on instance 
+sudo apt update
+sudo apt install python3-pip -y
+pip install -r requirements.txt
+
+
+On instance
+sudo ln -s /usr/bin/python3 /usr/bin/python
+
+Start server script on instance 
+./native_build.sh
+
+
+--------------------------- PYTEST --------------------------------------
+Pytest command (local)
+Run from src directory
+pytest -sv --tb=short -rA --capture=tee-sys > test/test_output.log

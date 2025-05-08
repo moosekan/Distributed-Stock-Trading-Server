@@ -1,0 +1,58 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.11.4, pytest-8.3.5, pluggy-1.5.0 -- /Users/mnswdhw/Documents/Courses/CS677/spring25-lab3-spring25-lab3-mnswdhw-moosekan/.venv/bin/python3
+cachedir: .pytest_cache
+rootdir: /Users/mnswdhw/Documents/Courses/CS677/spring25-lab3-spring25-lab3-mnswdhw-moosekan/src
+collecting ... collected 22 items
+
+test/test_functional.py::test_lookup_valid PASSED                        [  4%]
+test/test_functional.py::test_lookup_invalid PASSED                      [  9%]
+test/test_functional.py::test_trade_buy_valid PASSED                     [ 13%]
+test/test_functional.py::test_trade_buy_invalid PASSED                   [ 18%]
+test/test_functional.py::test_trade_sell_valid PASSED                    [ 22%]
+test/test_functional.py::test_frontend_lookup_valid PASSED               [ 27%]
+test/test_functional.py::test_frontend_lookup_invalid PASSED             [ 31%]
+test/test_functional.py::test_frontend_cache_hit PASSED                  [ 36%]
+test/test_functional.py::test_frontend_cache_eviction PASSED             [ 40%]
+test/test_functional.py::test_get_wrong_stockname PASSED                 [ 45%]
+test/test_functional.py::test_post PASSED                                [ 50%]
+test/test_functional.py::test_post_invalid_url PASSED                    [ 54%]
+test/test_functional.py::test_post_wrong_stockname PASSED                [ 59%]
+test/test_functional.py::test_post_wrong_type PASSED                     [ 63%]
+test/test_functional.py::test_post_negative_quantity PASSED              [ 68%]
+test/test_functional.py::test_post_large_quantity PASSED                 [ 72%]
+test/test_functional.py::test_post_transaction_increments PASSED         [ 77%]
+test/test_functional.py::test_get_order_valid PASSED                     [ 81%]
+test/test_functional.py::test_leader_logs_trade_replicates_followers PASSED [ 86%]
+test/test_functional.py::test_order_csvs_same PASSED                     [ 90%]
+test/test_functional.py::test_replica_sync_after_crash Crashing Order Replica 2 on port 8094 (PIDs: 75050)
+Restarting Order Replica 2 on port 8094
+PASSED            [ 95%]
+test/test_functional.py::test_leader_crash_and_recovery Crashing Order Replica 3 on port 8095 (PIDs: 75096)
+Restarting Order Replica 3 on port 8095
+PASSED           [100%]
+
+==================================== PASSES ====================================
+=========================== short test summary info ============================
+PASSED test/test_functional.py::test_lookup_valid
+PASSED test/test_functional.py::test_lookup_invalid
+PASSED test/test_functional.py::test_trade_buy_valid
+PASSED test/test_functional.py::test_trade_buy_invalid
+PASSED test/test_functional.py::test_trade_sell_valid
+PASSED test/test_functional.py::test_frontend_lookup_valid
+PASSED test/test_functional.py::test_frontend_lookup_invalid
+PASSED test/test_functional.py::test_frontend_cache_hit
+PASSED test/test_functional.py::test_frontend_cache_eviction
+PASSED test/test_functional.py::test_get_wrong_stockname
+PASSED test/test_functional.py::test_post
+PASSED test/test_functional.py::test_post_invalid_url
+PASSED test/test_functional.py::test_post_wrong_stockname
+PASSED test/test_functional.py::test_post_wrong_type
+PASSED test/test_functional.py::test_post_negative_quantity
+PASSED test/test_functional.py::test_post_large_quantity
+PASSED test/test_functional.py::test_post_transaction_increments
+PASSED test/test_functional.py::test_get_order_valid
+PASSED test/test_functional.py::test_leader_logs_trade_replicates_followers
+PASSED test/test_functional.py::test_order_csvs_same
+PASSED test/test_functional.py::test_replica_sync_after_crash
+PASSED test/test_functional.py::test_leader_crash_and_recovery
+============================= 22 passed in 22.97s ==============================

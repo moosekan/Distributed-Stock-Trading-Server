@@ -1,0 +1,172 @@
+#! /bin/bash
+
+version="1.2"
+
+maindir=""
+destdir=lab2
+
+fresh=
+verbose=false
+arch="`arch`"
+tag=
+platform=
+container=
+while test "$#" -ne 0; do
+    if test "$1" = "-f" -o "$1" = "--fresh"; then
+        fresh=1
+        shift
+    elif test "$1" = "-V" -o "$1" = "--verbose"; then
+        verbose=true
+        shift
+    elif test "$1" = "-a" -o "$1" = "--arm" -o "$1" = "--arm64"; then
+        if test "$arch" = "arm64" -o "$arch" = "aarch64"; then
+            platform=linux/arm64
+            shift
+        else
+            echo "\`cs677-run-docker --arm\` only works on ARM64 hosts" 1>&2
+            exit 1
+        fi
+    elif test "$1" = "-x" -o "$1" = "--x86-64" -o "$1" = "--x86_64" -o "$1" = "--amd64"; then
+        platform=linux/amd64
+        shift
+    elif test "(" "$1" = "-t" -o "$1" = "--tag" ")" -a "$#" -gt 1; then
+        tag="$2"
+        shift 2
+    elif test -z "$container" -a -z "$fresh" -a -n "$1" && expr "$1" : '[0-9a-f][0-9a-f][0-9a-f]*$' >/dev/null 2>&1; then
+        container="$1"
+        shift
+    else
+        armtext=
+        if test "$arch" = "arm64" -o "$arch" = "aarch64"; then
+            armtext=" [-a|--arm] [-x|--x86-64]"
+        fi
+        echo "Usage: cs677-run-docker [-f|--fresh]$armtext [-V|--verbose] [CONTAINERID]" 1>&2
+        exit 1
+    fi
+done
+if test -z "$platform" -a \( "$arch" = "arm64" -o "$arch" = "aarch64" \); then
+    platform=linux/arm64
+elif test -z "$platform"; then
+    platform=linux/amd64
+fi
+if test -z "$tag" -a "$platform" = linux/arm64; then
+    tag=cs677:arm64
+elif test -z "$tag"; then
+    tag=cs677:latest
+fi
+
+
+vexec () {
+    if $verbose; then
+        echo "$@"
+    fi
+    exec "$@"
+}
+
+if stat --format %i / >/dev/null 2>&1; then
+    statformatarg="--format"
+else
+    statformatarg="-f"
+fi
+myfileid=`stat $statformatarg %d:%i "${BASH_SOURCE[0]}" 2>/dev/null`
+
+ssharg=
+sshenvarg=
+if test -n "$SSH_AUTH_SOCK" -a "`uname`" = Darwin; then
+    ssharg=" --mount type=bind,src=/run/host-services/ssh-auth.sock,target=/run/host-services/ssh-auth.sock"
+    sshenvarg=" -e SSH_AUTH_SOCK=/run/host-services/ssh-auth.sock"
+fi
+
+dir="`pwd`"
+subdir=""
+while test "$dir" != / -a "$dir" != ""; do
+    thisfileid=`stat $statformatarg %d:%i "$dir"/cs677-run-docker 2>/dev/null`
+    if test -n "$thisfileid" -a "$thisfileid" = "$myfileid"; then
+        maindir="$dir"
+        break
+    fi
+    subdir="/`basename "$dir"`$subdir"
+    dir="`dirname "$dir"`"
+done
+
+if test -z "$maindir" && expr "${BASH_SOURCE[0]}" : / >/dev/null 2>&1; then
+    maindir="`dirname "${BASH_SOURCE[0]}"`"
+    subdir=""
+fi
+
+existing_image=""
+if test -n "$container"; then
+    existing_image="`docker ps -f "id=$container" --no-trunc --format "{{.CreatedAt}},{{.ID}}" | sort -r | head -n 1`"
+    if test -z "$existing_image"; then
+        echo "* Container $container not found" 1>&2
+        echo "- To start a new container, try \`cs677-run-docker -f\`" 1>&2
+        echo "- To list executing containers, try \`docker ps\`" 1>&2
+        exit 1
+    elif test "`echo "$existing_image" | wc -l`" -gt 1; then
+        echo "* Container $container ambiguous" 1>&2
+        echo "- To start a new container, try \`cs677-run-docker -f\`" 1>&2
+        echo "- To list executing containers, try \`docker ps\`" 1>&2
+        exit 1
+    fi
+elif test -n "$maindir" -a -z "$fresh"; then
+    existing_image="`docker ps -f status=running -f ancestor=$tag --no-trunc --format "{{.CreatedAt}},{{.ID}}" | sort -r | head -n 1`"
+fi
+if test -n "$existing_image"; then
+    created_at="`echo $existing_image | sed 's/,.*//'`"
+    image="`echo $existing_image | sed 's/^.*,//'`"
+    image12="`echo $image | head -c 12`"
+    echo "* Using running container $image12, created $created_at" 1>&2
+    echo "- To start a new container, exit then \`cs677-run-docker -f\`" 1>&2
+    echo "- To kill this container, exit then \`docker kill $image12\`" 1>&2
+    MSYS_NO_PATHCONV=1 vexec docker exec -it$sshenvarg $image /bin/bash
+fi
+
+netarg=
+if test `uname` = Darwin; then
+    if ! netstat -n -a -p tcp | grep '\.6169[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=6169/tcp -p 6169:6169/tcp'
+    fi
+    if ! netstat -n -a -p tcp | grep '\.12949[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12949/tcp -p 12949:12949/tcp'
+    elif ! netstat -n -a -p tcp | grep '\.12950[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12950/tcp -p 12950:12950/tcp'
+    elif ! netstat -n -a -p tcp | grep '\.12951[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12951/tcp -p 12951:12951/tcp'
+    elif ! netstat -n -a -p tcp | grep '\.12952[[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12952/tcp -p 12952:12952/tcp'
+    fi
+elif test -x /bin/netstat; then
+    if ! netstat -n -l -t | grep ':6169[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=6169/tcp -p 6169:6169/tcp'
+    fi
+    if ! netstat -n -l -t | grep ':12949[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12949/tcp -p 12949:12949/tcp'
+    elif ! netstat -n -l -t | grep ':12950[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12950/tcp -p 12950:12950/tcp'
+    elif ! netstat -n -l -t | grep ':12951[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12951/tcp -p 12951:12951/tcp'
+    elif ! netstat -n -l -t | grep ':12952[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12952/tcp -p 12952:12952/tcp'
+    fi
+elif test -x /c/Windows/system32/netstat; then
+    if ! netstat -n -a -p tcp | grep ':6169[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=6169/tcp -p 6169:6169/tcp'
+    fi
+    if ! netstat -n -a -p tcp | grep ':12949[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12949/tcp -p 12949:12949/tcp'
+    elif ! netstat -n -a -p tcp | grep ':12950[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12950/tcp -p 12950:12950/tcp'
+    elif ! netstat -n -a -p tcp | grep ':12951[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12951/tcp -p 12951:12951/tcp'
+    elif ! netstat -n -a -p tcp | grep ':12952[[:blank:]].*LISTEN' >/dev/null; then
+        netarg="$netarg "'--expose=12952/tcp -p 12952:12952/tcp'
+    fi
+else
+    echo "Port forwarding is not set up due to netstat not detected" 1>&2
+fi
+
+if test -n "$maindir"; then
+    MSYS_NO_PATHCONV=1 vexec docker run -it --platform $platform --rm --privileged --cap-add=SYS_PTRACE --cap-add=NET_ADMIN --security-opt seccomp=unconfined -v "$maindir":/home/cs677-user/$destdir$ssharg -v ~/.ssh:/home/cs677-user/.ssh -w "/home/cs677-user/$destdir$subdir" $netarg$sshenvarg $tag
+else
+    MSYS_NO_PATHCONV=1 vexec docker run -it --platform $platform --rm --privileged --cap-add=SYS_PTRACE --cap-add=NET_ADMIN --security-opt seccomp=unconfined -v ~/.ssh:/home/cs677-user/.ssh $netarg$sshenvarg $tag
+fi

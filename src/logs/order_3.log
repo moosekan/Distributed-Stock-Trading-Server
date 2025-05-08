@@ -1,0 +1,4527 @@
+Replicas of (Order 3): are [(1, 'localhost', '8093'), (2, 'localhost', '8094')]
+(Order 3): Checking heartbeat of order service id 3
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "sell"
+
+[Thread-1 (write_to_disk)] order written to CSV.
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 1
+type: "buy"
+
+[Thread-1 (write_to_disk)] order written to CSV.
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "buy"
+
+[Thread-1 (write_to_disk)] order written to CSV.
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[Thread-1 (write_to_disk)] order written to CSV.
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 10
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 7
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 7
+type: "sell"
+
+[Thread-1 (write_to_disk)] order written to CSV.
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "META"
+number_of_items: 2
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 9
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 1
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 10
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 3
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 7
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 5
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AAPL"
+number_of_items: 8
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 4
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 3
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "NVDA"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "GOOGL"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 8
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 6
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 2
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 5
+type: "sell"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "AMZN"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "MenhirCo"
+number_of_items: 1
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
+(Order 3): Trade Request Received
+name: "BoarCo"
+number_of_items: 9
+type: "buy"
+
+(Order 3): Get Order Details Request receieved
+[ThreadPoolExecutor-0_0] is running
