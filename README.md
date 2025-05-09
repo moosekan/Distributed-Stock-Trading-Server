@@ -7,6 +7,11 @@ fault tolerance. The goal is to achieve improved latency, availability, and robu
 - Replicated order services with a leader-follower protocol.
 - Automatic failover and state synchronization for crash recovery.
 
+## Architecture 
+
+![Arch diagram](docs/arch_diagram.png)
+
+
 Our system consists of the following microservices, all launched on a t2.medium EC2 instance using
 Bash scripts. Services are started using native_build.sh and failure scenarios are simulated using
 simulate_crashes.sh.
